@@ -1,0 +1,6 @@
+
+Papers for ringdown spectrometer
+
+
+https://www.tandfonline.com/doi/abs/10.1080/014423500750040627
+Berden, G., Peeters, R., & Meijer, G. (2000). Cavity ring-down spectroscopy: Experimental schemes and applications. International Reviews in Physical Chemistry, 19(4), 565–607. https://doi.org/10.1080/014423500750040627
